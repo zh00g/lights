@@ -1,2 +1,2 @@
 # lights
-making lights do things with teensy 4.0 + cpp
+making lights do things w teensy 4.0 + cpp
